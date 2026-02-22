@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Coursework 2 generated/big artifacts
+coursework_02/Task01_BrainTumour_2D/
+coursework_02/Task01_BrainTumour_2D.tar.gz
+coursework_02/saved_models/
+coursework_02/step3_visualisation.png
+coursework_02/step7_deployment.png
+coursework_02/run_steps.py
+coursework_02/运行步骤.md
